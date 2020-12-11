@@ -1,4 +1,4 @@
-# Examples of projects in livy example
+# Examples of projects in kivy python
 
 ## Intsall
 
